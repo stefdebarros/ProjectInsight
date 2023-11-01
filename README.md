@@ -1,3 +1,4 @@
-# workandproject
+# insightprojects
 
-I put in this directory different pieces of code about past and current work
+In this directory, you can find some examples of codes that I have used in projects.
+The first 
