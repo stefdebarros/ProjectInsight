@@ -12,6 +12,7 @@ I show how to
 - format/prepare the data for analysis: [NEED LINK](https://www.lemonde.fr/)
 - an example of some data exploration: [NEED LINK](https://www.lemonde.fr/) to get a grasp of what it is about
 - a complete logistic regression analysis of this data, first univariate: [NEED LINK](https://www.lemonde.fr/), and then multivariate [NEED LINK](https://www.lemonde.fr/).
+
 I have also apply several supervised Machine Learning algorithm to the data to see if the outcome can be predicted.
 
 ## Predicting distant galaxies observations with the James Webb Space Telescope
