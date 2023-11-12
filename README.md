@@ -21,4 +21,6 @@ I show how to
 - [do some data exploration and cleaning](https://github.com/stefdebarros/ProjectInsight/blob/master/analysis_severe_cases_data_exploration.ipynb) to get a grasp of what it is about
 - [perform a univariate logistic regression](https://github.com/stefdebarros/ProjectInsight/blob/master/analysis_severe_cases_univariate_logistic_regression.ipynb),  used as a preliminary analysis, to see how each individual parameter impact the outcome. The [result vizualisation](https://github.com/stefdebarros/ProjectInsight/blob/master/analysis_severe_cases_univariate_logistic_regression_results.ipynb) are shown elsewhere for more clarity.
 - [perform a complete multivariate logistic regression analysis](https://github.com/stefdebarros/ProjectInsight/blob/master/analysis_severe_cases_multivariate_logistic_regression.ipynb), with stepwise approach.
+- [use a supervised Machine Learning algorithm (logistic regression)](https://github.com/stefdebarros/ProjectInsight/blob/master/supervised_Machine_Learning_logistic_regression.ipynb) to identify the performance of the method, an the ability of such method to predict the outcome
+- soon more to come...
 
