@@ -8,7 +8,7 @@ In this directory, you can find some examples of different things I have done re
 ## Brazil COVID19 hospitalized patients
 The first project shown is about public COVID19 clinical data from Brazil. For this project, public data about hospitalized patients with positive COVID19 test is gathered and the outcome (death/cure) is studied.
 I show how to 
-- extract raw data from the Ministry of Health webpage [NEED LINK](https://www.lemonde.fr/)
+- [extract raw data](https://github.com/stefdebarros/ProjectInsight/blob/master/extract_raw_data.ipynb) from the Ministry of Health webpage 
 - format/prepare the data for analysis: [NEED LINK](https://www.lemonde.fr/)
 - an example of some data exploration: [NEED LINK](https://www.lemonde.fr/) to get a grasp of what it is about
 - a complete logistic regression analysis of this data, first univariate: [NEED LINK](https://www.lemonde.fr/), and then multivariate [NEED LINK](https://www.lemonde.fr/).
