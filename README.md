@@ -18,7 +18,9 @@ I show how to
 - [extract raw data](https://github.com/stefdebarros/ProjectInsight/blob/master/extract_raw_data.ipynb) from the Ministry of Health webpage
 - [format/prepare the data](https://github.com/stefdebarros/ProjectInsight/blob/master/extract_format_data.ipynb) for analysis
 - [some data exploration and cleaning](https://github.com/stefdebarros/ProjectInsight/blob/master/analysis_severe_cases_data_exploration.ipynb) to get a grasp of what it is about
-- a complete logistic regression analysis of this data, first univariate: [NEED LINK](https://www.lemonde.fr/), and then multivariate [NEED LINK](https://www.lemonde.fr/).
+- [perform a univariate logistic regression](https://github.com/stefdebarros/ProjectInsight/blob/master/analysis_severe_cases_univariate_logistic_regression.ipynb),  used as a preliminary analysis, to see how each individual parameter impact the outcome, with a [result vizualisation in another notebook](https://github.com/stefdebarros/ProjectInsight/blob/master/analysis_severe_cases_univariate_logistic_regression_results.ipynb)
+- peform a complete multivariate analysis
+- ) a complete logistic regression analysis of this data, first univariate: [NEED LINK](https://www.lemonde.fr/), and then multivariate 
 
 I have also apply several supervised Machine Learning algorithm to the data to see if the outcome can be predicted.
 
