@@ -17,7 +17,7 @@ The first project shown is about public COVID19 clinical data from Brazil. For t
 I show how to 
 - [extract raw data](https://github.com/stefdebarros/ProjectInsight/blob/master/extract_raw_data.ipynb) from the Ministry of Health webpage
 - [format/prepare the data](https://github.com/stefdebarros/ProjectInsight/blob/master/extract_format_data.ipynb) for analysis
-- an example of some data exploration: [NEED LINK](https://www.lemonde.fr/) to get a grasp of what it is about
+- [some data exploration and cleaning](https://github.com/stefdebarros/ProjectInsight/blob/master/analysis_severe_cases_data_exploration.ipynb) to get a grasp of what it is about
 - a complete logistic regression analysis of this data, first univariate: [NEED LINK](https://www.lemonde.fr/), and then multivariate [NEED LINK](https://www.lemonde.fr/).
 
 I have also apply several supervised Machine Learning algorithm to the data to see if the outcome can be predicted.
