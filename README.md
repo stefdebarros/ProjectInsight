@@ -15,12 +15,10 @@ In this directory, you can find some examples of different things I have done re
 ## Brazil COVID19 hospitalized patients
 The first project shown is about public COVID19 clinical data from Brazil. For this project, public data about hospitalized patients with positive COVID19 test is gathered and the outcome (death/cure) is studied.
 I show how to 
+
 - [extract raw data](https://github.com/stefdebarros/ProjectInsight/blob/master/extract_raw_data.ipynb) from the Ministry of Health webpage
 - [format/prepare the data](https://github.com/stefdebarros/ProjectInsight/blob/master/extract_format_data.ipynb) for analysis
 - [do some data exploration and cleaning](https://github.com/stefdebarros/ProjectInsight/blob/master/analysis_severe_cases_data_exploration.ipynb) to get a grasp of what it is about
 - [perform a univariate logistic regression](https://github.com/stefdebarros/ProjectInsight/blob/master/analysis_severe_cases_univariate_logistic_regression.ipynb),  used as a preliminary analysis, to see how each individual parameter impact the outcome. The [result vizualisation](https://github.com/stefdebarros/ProjectInsight/blob/master/analysis_severe_cases_univariate_logistic_regression_results.ipynb) are shown elsewhere for more clarity.
-- [perform a complete multivariate analysis](), accounting for all parameters
-- ) a complete logistic regression analysis of this data, first univariate: [NEED LINK](https://www.lemonde.fr/), and then multivariate 
-
-I have also apply several supervised Machine Learning algorithm to the data to see if the outcome can be predicted.
+- [perform a complete multivariate logistic regression analysis](https://github.com/stefdebarros/ProjectInsight/blob/master/analysis_severe_cases_multivariate_logistic_regression.ipynb), with stepwise approach.
 
