@@ -1,7 +1,9 @@
 # Project Insight
 
-Hello
-In this directory, you can find some examples of codes that I have used in projects.
+Welcome dear visitor!
+If you reached this page, I assume that you're interested about my profile, so first of all: thanks for your interest.
+
+In this directory, you can find some examples of different things I have done regarding a variety of data, for now, epidemiological and astrophysics data (with more to come).
 
 ## Brazil COVID19 hospitalized patients
 The first project shown is about public COVID19 clinical data from Brazil. For this project, public data about hospitalized patients with positive COVID19 test is gathered and the outcome (death/cure) is studied.
@@ -14,3 +16,5 @@ MORE DETAILS SOON
 
 ## Predicting distant galaxies observations with the James Webb Space Telescope
 
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+>_________________<
