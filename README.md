@@ -1,8 +1,11 @@
 # Project Insight
 
 Welcome dear visitor!
+
 You're on the page of Stephane De Barros, PhD, astrophysicist, data scientist / analyst / manager (in a nutshell, maybe data specialist).
+
 I have worked as an academic for the University of Geneva, University of California (Riverside), the Italian National Institute for Astrophysics, and now for the World Health Organization.
+
 You can find my Linkedin page here: https://www.linkedin.com/in/stephane-de-barros/
 
 If you reached this page, I assume that you're interested about my profile, so first of all: thanks for your interest!
