@@ -2,7 +2,7 @@
 
 Welcome dear visitor!
 
-You're on the page of Stephane De Barros, PhD, astrophysicist, data scientist / analyst / manager (in a nutshell, maybe data specialist).
+You're on the page of Stephane De Barros, PhD, astrophysicist, data scientist / analyst / manager (in a nutshell, data specialist).
 
 I have worked as an academic for the University of Geneva, University of California (Riverside), the Italian National Institute for Astrophysics, and now for the World Health Organization.
 
