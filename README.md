@@ -28,7 +28,7 @@ I show how to
 
 As you may not know, in Brazil, healthcare is universal and free for everyone. This is important because it limits biases in healthcare data since (theoretically) there is no reason for someone sick not to enter the healthcare system.
 
-Another important point, it is that at the very early stage of the COVID19 outbreak, Brazil officials took advantage of an existing flu surveillance system to extend this system to COVID19, thus providing a wealth of data (age, sex, comorbidities, symptoms, etc), data consistent across the board. To the best of my knowledge, this is the largest existing database about COVID19 with 120.635.460 total cases, and 26.146.569 COVID19 positive cases (as of October 26th 2023).
+Another important point, it is that at the very early stage of the COVID19 outbreak, Brazil officials took advantage of an existing flu surveillance system to extend this system to COVID19, thus providing a wealth of data (age, sex, comorbidities, symptoms, etc), data consistent across the board. To the best of my knowledge, this is the largest existing database with this such level of completeness about COVID19 with 120.635.460 total cases, and 26.146.569 COVID19 positive cases (as of October 26th 2023).
 
 - [how to extract the whole dataset](https://github.com/stefdebarros/ProjectInsight/blob/master/all_cases_extract_raw_data.ipynb) through an Elastic API (and I admit it took me some time to find the right method to do it in Python)
 - soon more to come...
