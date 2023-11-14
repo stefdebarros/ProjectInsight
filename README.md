@@ -24,7 +24,7 @@ I show how to
 - [use a supervised Machine Learning algorithm (logistic regression)](https://github.com/stefdebarros/ProjectInsight/blob/master/supervised_Machine_Learning_logistic_regression.ipynb) to identify the performance of the method, and the ability of such method to predict the outcome
 - soon more to come...
 
-## Brazil COVID19: ALL patients data, hospitalized or not
+## Brazil COVID19: ALL flu-like patients data, hospitalized or not, since beginning of COVID19 outbreak
 
 As you may not know, in Brazil, healthcare is universal and free for everyone. This is important because it limits biases in healthcare data since (theoretically) there is no reason for someone sick not to enter the healthcare system.
 
