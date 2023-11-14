@@ -12,7 +12,7 @@ If you reached this page, I assume that you're interested about my profile, so f
 
 In this directory, you can find some examples of different things I have done regarding a variety of data. For now, there is a work performed on epidemiological data, but soon, you'll also find astrophysical data (with more to come).
 
-## Brazil COVID19 hospitalized patients
+## [u]Brazil COVID19 hospitalized patients end-to-end analysis[/u]
 The first project shown is about public COVID19 clinical data from Brazil. For this project, public data about hospitalized patients with positive COVID19 test is gathered and the outcome (death/cure) is studied.
 I show how to 
 
@@ -23,4 +23,8 @@ I show how to
 - [perform a complete multivariate logistic regression analysis](https://github.com/stefdebarros/ProjectInsight/blob/master/analysis_severe_cases_multivariate_logistic_regression.ipynb), with stepwise approach.
 - [use a supervised Machine Learning algorithm (logistic regression)](https://github.com/stefdebarros/ProjectInsight/blob/master/supervised_Machine_Learning_logistic_regression.ipynb) to identify the performance of the method, and the ability of such method to predict the outcome
 - soon more to come...
+
+## Brazil COVID19: ALL patients data, hospitalized or not
+
+As you may not know, in Brazil, healthcare is universal and free for everyone. This is important because it limits biases in healthcare data since (theoretically) there is no reason for someone sick not to enter the healthcare system.
 
