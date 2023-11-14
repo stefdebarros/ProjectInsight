@@ -12,7 +12,7 @@ If you reached this page, I assume that you're interested about my profile, so f
 
 In this directory, you can find some examples of different things I have done regarding a variety of data. For now, there is a work performed on epidemiological data, but soon, you'll also find astrophysical data (with more to come).
 
-## [u]Brazil COVID19 hospitalized patients end-to-end analysis[/u]
+## Brazil COVID19 hospitalized patients end-to-end analysis
 The first project shown is about public COVID19 clinical data from Brazil. For this project, public data about hospitalized patients with positive COVID19 test is gathered and the outcome (death/cure) is studied.
 I show how to 
 
@@ -27,4 +27,8 @@ I show how to
 ## Brazil COVID19: ALL patients data, hospitalized or not
 
 As you may not know, in Brazil, healthcare is universal and free for everyone. This is important because it limits biases in healthcare data since (theoretically) there is no reason for someone sick not to enter the healthcare system.
+
+Another important point, it is that at the very early stage of the COVID19 outbreak, Brazil officials took advantage of an existing flu surveillance system to extent this system to COVID19, thus providing a wealth of data (age, sex, ethnicity, state of residence, comorbidities, symptoms, vaccinal status, etc), data consistent across the board.
+
+This data is available through 
 
