@@ -30,5 +30,5 @@ As you may not know, in Brazil, healthcare is universal and free for everyone. T
 
 Another important point, it is that at the very early stage of the COVID19 outbreak, Brazil officials took advantage of an existing flu surveillance system to extent this system to COVID19, thus providing a wealth of data (age, sex, ethnicity, state of residence, comorbidities, symptoms, vaccinal status, etc), data consistent across the board.
 
-This data is available through 
+- [how to extract the whole dataset](LINK) through an Elastic API (and I admit it took me some time to find the right method to do it in Python)
 
